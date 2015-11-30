@@ -1,8 +1,8 @@
-# MiniMover (it is MiniCopier +deletes source after copied)
+# MiniMover (it is based on MiniCopier and deletes source files after copy)
 
 ### Original [Website](http://www.adriancourreges.com/projects/minicopier/)&nbsp;&nbsp;&nbsp;&nbsp;[Download](http://www.adriancourreges.com/projects/minicopier/#dl-section)&nbsp;&nbsp;&nbsp;&nbsp;
 
-### This is program that supports MOVE [Website]([Download](https://drive.google.com/file/d/0B8rzCPATe1iWMHk5VnQ5TTZvaXc/view?usp=sharing)&nbsp;&nbsp;&nbsp;&nbsp;
+### A program that supports MOVE [Download](https://drive.google.com/file/d/0B8rzCPATe1iWMHk5VnQ5TTZvaXc/view?usp=sharing)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Features
 
